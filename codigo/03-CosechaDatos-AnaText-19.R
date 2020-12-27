@@ -10,7 +10,7 @@
 #                            https://7partidas.hypotheses.org/                           #
 #                            https://github.com/7PartidasDigital                         #
 #                        Este material se distribuye con una licencia                    #
-#                                            MIT                                         #
+#                                            MIT                                         #video
 #                                         v. 1.0.0                                       #
 
 
